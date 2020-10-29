@@ -41,6 +41,8 @@ m <- c("dog","cat","hamster","goldfish")
 data <- sample(m,1000,replace=TRUE)
 as.data.frame(table(data))
 #3-3
-g <- c("leek","caraway","spinach","celery")
+potato <- 1
+leek <- 2
+cabbage <- 3
 ls()
 print(ls(pattern="a"))
